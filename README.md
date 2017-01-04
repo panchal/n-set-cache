@@ -1,5 +1,5 @@
-NSetCache
-=========
+N-way Set Associative Cache
+===========================
 
 N-way Set Associative Cache Impl.
 
